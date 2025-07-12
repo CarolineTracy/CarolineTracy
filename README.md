@@ -22,4 +22,4 @@ Hi! My name is Caroline Tracy.
 
 **Projects in my GitHub**
 
-&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;TicTacToe AI: An AI I created that you can play TicTacToe against. Created using Standard ML.
+&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;**TicTacToe AI**: An AI I created that you can play TicTacToe against. Created using Standard ML.
