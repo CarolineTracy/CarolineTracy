@@ -8,7 +8,8 @@ My name is Caroline Tracy.
 
 🗝️ I have a deep passion for problem-solving, and I love using my skills to tackle real-world issues. I also have a strong mathematical background.
 
-✨ Outside of school and work you can find me listening to music and doing logic puzzles (Sudoku is my favorite).  </br>
+✨ Outside of school and work you can find me listening to music and doing logic puzzles (Sudoku is my favorite).  
+</br>
 
 **Some Things I'm Interested In**
 
@@ -18,7 +19,8 @@ My name is Caroline Tracy.
 
 - QA and Software Testing
 
-- Machine Learning and AI </br>
+- Machine Learning and AI
+  </br>
 
 **Projects in my GitHub**
 
