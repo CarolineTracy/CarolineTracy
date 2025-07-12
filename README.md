@@ -4,7 +4,7 @@
 
 My name is Caroline Tracy. 
 
-✰ I'm a rising junior at Wesleyan University majoring in Computer Science. 
+✨ I'm a rising junior at Wesleyan University majoring in Computer Science. 
 
 ✰ I have a deep passion for problem-solving, and I love using my skills to tackle real-world issues. I also have a strong mathematical background.
 
