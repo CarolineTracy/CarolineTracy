@@ -1,25 +1,25 @@
-# Hi! Welcome to my GitHub!
+# Welcome to my GitHub!
 
 **About Me**
 
-My name is Caroline Tracy. 
+Hi! My name is Caroline Tracy.
 
-  📚 I'm a rising junior at Wesleyan University majoring in Computer Science. 
+&nbsp;&nbsp;&nbsp;&nbsp;📚 &nbsp;I'm a rising junior at Wesleyan University majoring in Computer Science.
 
-🗝️ I have a deep passion for problem-solving, and I love using my skills to tackle real-world issues. I also have a strong mathematical background.
+&nbsp;&nbsp;&nbsp;&nbsp;🗝️ &nbsp;I have a deep passion for problem-solving, and I love using my skills to tackle real-world issues. I also have a strong mathematical &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;background.
 
-✨ Outside of school and work you can find me listening to music and doing logic puzzles (Sudoku is my favorite).  
+&nbsp;&nbsp;&nbsp;&nbsp;✨ &nbsp;Outside of school and work you can find me listening to music and doing logic puzzles (Sudoku is my favorite).  
 
 **Some Things I'm Interested In**
 
-✦ Software Engineering
+&nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;Software Engineering
 
-✦ Cybersecurity
+&nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;Cybersecurity
 
-✦ QA and Software Testing
+&nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;QA and Software Testing
 
-✦ Machine Learning and AI
+&nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;Machine Learning and AI
 
 **Projects in my GitHub**
 
-✰ ADD
+&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;ADD
