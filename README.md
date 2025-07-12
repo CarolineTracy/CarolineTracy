@@ -10,6 +10,7 @@ Hi! My name is Caroline Tracy.
 
 &nbsp;&nbsp;&nbsp;&nbsp;✨ &nbsp;Outside of school and work you can find me listening to music and doing logic puzzles (especially Sudoku).  
 
+
 **Some Things I'm Interested In**
 
 &nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;Software Engineering
