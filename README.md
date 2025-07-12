@@ -12,13 +12,13 @@ My name is Caroline Tracy.
 
 **Some Things I'm Interested In**
 
-✧ Software Engineering
+✦ Software Engineering
 
-- Cybersecurity
+✦ Cybersecurity
 
-- QA and Software Testing
+✦ QA and Software Testing
 
-- Machine Learning and AI
+✦ Machine Learning and AI
 
 **Projects in my GitHub**
 
