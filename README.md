@@ -1,16 +1,13 @@
-## Hi there 👋
+#Hi! Welcome to my GitHub!
 
-<!--
-**CarolineTracy/CarolineTracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
+My name is Caroline Tracy. I'm a rising junior at Wesleyan University majoring in Computer Science. I have a deep passion for problem-solving, and I love using my skills to tackle real-world issues. I have a strong mathematical background and love to take math classes (despite not majoring in it). Outside of school and work you can find me listening to music and doing logic puzzles (Sudoku is my favorite).
 
-Here are some ideas to get you started:
+**Some Things I'm Interested In**
+- Software Engineering
+- Cybersecurity
+- QA and Software Testing
+- Machine Learning and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects in my GitHub**
+- ADD
