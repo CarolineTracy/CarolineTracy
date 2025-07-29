@@ -24,3 +24,7 @@ Hi! My name is Caroline Tracy.
 **Projects in my GitHub**
 
 &nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;**TicTacToe AI**: An AI I created that you can play TicTacToe against. Created using Standard ML.
+
+&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;**Naïve Bayes Classifier**: A naïve Bayes classifer I created, which is a simple machine-learning algorithm. Created using Standard ML.
+
+&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;**Dictionary Hash Table**: An implementation of a dictionary using a hash table. Created using C.
