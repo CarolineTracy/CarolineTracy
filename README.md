@@ -10,6 +10,8 @@ Hi! My name is Caroline Tracy.
 
 &nbsp;&nbsp;&nbsp;&nbsp;✨ &nbsp;Outside of school and work you can find me listening to music and doing logic puzzles (especially Sudoku).  
 
+**Currently Working On...**
+&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;**Cell Tracking**:
 
 **Some Things I'm Interested In**
 
@@ -22,6 +24,7 @@ Hi! My name is Caroline Tracy.
 &nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;Machine Learning and AI
 
 **Projects in my GitHub**
+&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;**Cell Tracking**: A software that processes cell movement videos and produces a variety of quantitative outputs for use by Wesleyan University's Mitchel Lab, a biology research laboratory. The lab uses these outputs to map the rules governing the movements of cell groups and to support cancer research.
 
 &nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;**TicTacToe AI**: An AI I created that you can play TicTacToe against. Created using Standard ML.
 
