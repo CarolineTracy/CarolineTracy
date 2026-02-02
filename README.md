@@ -4,13 +4,13 @@
 
 Hi! My name is Caroline Tracy.
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;I'm an incoming Software Engineering Intern at Oracle.
+&nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;I'm an incoming Software Engineering Intern at Oracle.
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;I'm a junior at Wesleyan University majoring in Computer Science.
+&nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;I'm a junior at Wesleyan University majoring in Computer Science.
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;I have a deep passion for problem-solving, and I love using my skills to tackle real-world issues.
+&nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;I have a deep passion for problem-solving, and I love using my skills to tackle real-world issues.
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Outside of school and work you can find me listening to music and doing logic puzzles (especially Sudoku).  
+&nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;Outside of school and work you can find me listening to music and doing logic puzzles (especially Sudoku).  
 
 **Currently Working On...**
 
