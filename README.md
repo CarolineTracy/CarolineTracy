@@ -4,17 +4,13 @@
 
 Hi! My name is Caroline Tracy.
 
-&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;I'm an incoming Software Engineering Intern at Oracle.
+&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;I just finished my Software Engineering Intern position at Oracle.
 
-&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;I'm a junior at Wesleyan University majoring in Computer Science.
+&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;I'm a senior at Wesleyan University majoring in Computer Science.
 
 &nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;I have a deep passion for problem-solving, and I love using my skills to tackle real-world issues.
 
-&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;Outside of school and work you can find me listening to music, dancing, stage managing dance shows, and doing logic puzzles.  
-
-**Currently Working On...**
-
-&nbsp;&nbsp;&nbsp;&nbsp;**Implementing a Functional Language**
+&nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;Outside of school and work you can find me watching the WNBA, dancing, stage managing dance shows, and doing logic puzzles.  
 
 **Some Things I'm Interested In**
 
@@ -28,9 +24,9 @@ Hi! My name is Caroline Tracy.
 
 **Projects in my GitHub**
 
-&nbsp;&nbsp;&nbsp;&nbsp;⭑ &nbsp;**Implementing a Functional Language**: Implementing OCaml- (a subset of OCaml) and writing an interpreter for it.
-
 &nbsp;&nbsp;&nbsp;&nbsp;⭑ &nbsp;**Cell Tracking**: A software that processes cell movement videos and produces a variety of quantitative outputs for use by Wesleyan University's Mitchel Lab, a biology research laboratory. The lab uses these outputs to map the rules governing the movements of cell groups and to support cancer research.
+
+&nbsp;&nbsp;&nbsp;&nbsp;⭑ &nbsp;**Implementing a Functional Language**: Implementing OCaml- (a subset of OCaml) and writing an interpreter for it.
 
 &nbsp;&nbsp;&nbsp;&nbsp;⭑ &nbsp;**TicTacToe AI**: An AI I created that you can play TicTacToe against. Created using Standard ML.
 
