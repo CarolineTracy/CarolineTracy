@@ -12,6 +12,10 @@ Hi! My name is Caroline Tracy.
 
 &nbsp;&nbsp;&nbsp;&nbsp;✰ &nbsp;Outside of school and work you can find me watching the WNBA, dancing, stage managing dance shows, and doing logic puzzles.  
 
+**What I'm Currently Working On**
+
+**Phishi-I**: A browser extension that detects phishing emails, domain spoofing, and third-party tracking. The browser extension alerts the user whenever any of these potential security or privacy threats are identified, and educates them about what is happening. The browser extension is especially for older people and individuals with limited cybersecurity knowledge.
+
 **Some Things I'm Interested In**
 
 &nbsp;&nbsp;&nbsp;&nbsp;✦ &nbsp;Software Engineering
